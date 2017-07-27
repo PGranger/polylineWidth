@@ -1,1 +1,1 @@
-![hat it does](./demo.jpg)
+![what it does](./demo.png)
